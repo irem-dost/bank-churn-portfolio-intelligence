@@ -26,13 +26,13 @@ The interactive report is systematically divided into three strategic pillars:
 ├── power_bi/       # Interactive Power BI report files (.pbix)
 └── screenshots/    # High-quality dashboard preview images (.png)
 
-## 📸 Dashboard Previews
+## Dashboard Screenshots
 
-### Page 1: Bank Churn & Portfolio Intelligence
-![Page 1](https://raw.githubusercontent.com/irem-dost/bank-churn-portfolio-intelligence/main/screenshots/page1.png)
+### Page 1
+![Page1](screenshots/page1.png)
 
-### Page 2: Asset & Transaction Insights
-![Page 2](https://raw.githubusercontent.com/irem-dost/bank-churn-portfolio-intelligence/main/screenshots/page2.png)
+### Page 2
+![Page2](screenshots/page2.png)
 
-### Page 3: Digital & Activity Insights
-![Page 3](https://raw.githubusercontent.com/irem-dost/bank-churn-portfolio-intelligence/main/screenshots/page3.png)
+### Page 3
+![Page3](screenshots/page3.png)
