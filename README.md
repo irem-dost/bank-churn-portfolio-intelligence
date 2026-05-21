@@ -25,3 +25,14 @@ The interactive report is systematically divided into three strategic pillars:
 ├── sql/            # Churn analysis relational queries (.sql)
 ├── power_bi/       # Interactive Power BI report files (.pbix)
 └── screenshots/    # High-quality dashboard preview images (.png)
+
+
+## 📸 Dashboard Previews
+### Page 1: Bank Churn & Portfolio Intelligence
+![Page 1](screenshots/page1.png)
+
+### Page 2: Asset & Transaction Insights
+![Page 2](screenshots/page2.png)
+
+### Page 3: Digital & Activity Insights
+![Page 3](screenshots/page3.png)
