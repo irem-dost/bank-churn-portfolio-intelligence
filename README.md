@@ -26,3 +26,13 @@ The interactive report is systematically divided into three strategic pillars:
 ├── power_bi/       # Interactive Power BI report files (.pbix)
 └── screenshots/    # High-quality dashboard preview images (.png)
 ```
+## Dashboard Screenshots
+
+### Page 1
+![Page1](screenshots/page1.png)
+
+### Page 2
+![Page2](screenshots/page2.png)
+
+### Page 3
+![Page3](screenshots/page3.png)
